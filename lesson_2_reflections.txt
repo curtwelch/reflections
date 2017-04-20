@@ -1,0 +1,8 @@
+-- What happens when you initialize a repository? Why do you need to do it?
+
+The .git directory and information is set up.  This marks the tree as a git repository.
+
+-- How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is the set of files you want to create a logical commit with.  It allows you to bundle files imto different commits even if many have changed.
+
