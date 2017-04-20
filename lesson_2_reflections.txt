@@ -6,3 +6,12 @@ The .git directory and information is set up.  This marks the tree as a git repo
 
 The staging area is the set of files you want to create a logical commit with.  It allows you to bundle files imto different commits even if many have changed.
 
+-- How can you use the staging area to make sure you have one commit per logical change?
+
+If the changes are in different files, you can add only the files that are related
+into the staging area.  If mutliple changes happen in the same file, you are
+SOL.  I assume.
+
+-- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Experimental modifications.  Multiple people working on different changes.
