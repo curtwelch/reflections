@@ -20,3 +20,6 @@ Experimental modifications.  Multiple people working on different changes.
 
 The history becomes easy to visualize.
 
+-- What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+So we can retain the true revision history.
