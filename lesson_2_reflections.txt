@@ -15,3 +15,8 @@ SOL.  I assume.
 -- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Experimental modifications.  Multiple people working on different changes.
+
+-- How do the diagrams help you visualize the branch structure?
+
+The history becomes easy to visualize.
+
