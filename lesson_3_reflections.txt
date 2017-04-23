@@ -26,3 +26,16 @@ a projecty we control.
 the remote stored locally?
 
 So old versions can be compared without internet access.
+
+-- How would you collaborate without using Git or GitHub? What would
+be easier, and what would be harder?
+
+By email, with shared files.  git will automate the process of tracking
+changes and merges.  The overhead of all the git commands would be harder
+than not using git.
+
+-- When would you want to make changes in a separate branch rather
+than directly in master? What benefits does each approach have?
+
+When the respository is being worked on by one more than one person
+and we want to have changes reviewd before they are applied.
