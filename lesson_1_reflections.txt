@@ -1,6 +1,6 @@
 Reflections from lesson one.
 Well, gee, version control.  Been there, done that.
-lets move on to learnng git ok?
+lets move on to learning git ok?
 
 -- How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
@@ -19,7 +19,7 @@ Pro is that only the human can currently decide what logically fits together cor
 
 -- Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
-Because it's useful and needed and importnt.  I don't care to answer really.
+Because it's useful and needed and important.  I don't care to answer really.
 
 -- How can you use the commands git log and git diff to view the history of files?
 
